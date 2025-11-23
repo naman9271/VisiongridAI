@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+title: 'VisionGrid AI: Enterprise-Grade Dense Object Detection System'
+message: >-
+  If you use VisionGrid AI in your research, production systems,
+  or academic work, please cite it using the metadata below.
+type: software
+authors:
+  - given-names: Naman
+    family-names: Jain
+    email: namanjain9271@gmail.com
+    orcid: 'https://orcid.org/0009-0005-2610-3053'
+    affiliation: Independent Researcher
+repository-code: >-
+  https://github.com/naman9271/VisiongridAI
+abstract: >-
+  VisionGrid AI is an advanced, production-ready object detection framework
+  optimized for dense retail environments. Built on YOLOv5 architecture and
+  trained on the comprehensive SKU-110K dataset, this system achieves 92.2%
+  mAP@50 while maintaining edge-device compatibility through sophisticated
+  post-training quantization techniques. The framework supports multiple
+  deployment formats (PyTorch, TensorFlow, TFLite) with INT8 quantization
+  achieving 75% model size reduction with less than 1% accuracy degradation.
+  VisionGrid AI enables real-time inference (30+ FPS) suitable for enterprise
+  applications including inventory management, loss prevention, customer
+  analytics, and supply chain optimization.
+keywords:
+  - Object Detection
+  - Dense Object Detection
+  - YOLOv5
+  - SKU-110K
+  - Computer Vision
+  - Deep Learning
+  - Model Quantization
+  - INT8 Quantization
+  - Edge Computing
+  - TensorFlow Lite
+  - Retail Analytics
+  - Inventory Management
+  - Real-time Inference
+  - Enterprise AI
+license: MIT
+version: 2.0.0
+date-released: '2025-11-23'
